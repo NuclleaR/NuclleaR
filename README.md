@@ -19,7 +19,7 @@ Hi 👋, I'm Serhii.<br>A developer-hobbyist from Ukraine 🇺🇦
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://9gag-random-meme.deno.dev/tag/programming/fresh" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NuclleaR&icon=0&color=3)](https://visitcount.itsvg.in)
